@@ -1,9 +1,9 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 4E3EEF82
-/// @DnDArgument : "expr" "4"
+/// @DnDArgument : "expr" "6"
 /// @DnDArgument : "var" "speed"
-speed = 4;
+speed = 6;
 
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
