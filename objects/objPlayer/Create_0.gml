@@ -31,3 +31,10 @@ bPlayerInputEnabled = 1;
 /// @DnDHash : 0612D0EB
 /// @DnDArgument : "var" "PlayerDieOnce"
 PlayerDieOnce = 0;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 0017CD04
+/// @DnDArgument : "expr" "14"
+/// @DnDArgument : "var" "iCollect"
+iCollect = 14;
