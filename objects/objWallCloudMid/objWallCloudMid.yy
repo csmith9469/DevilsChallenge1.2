@@ -1,5 +1,5 @@
 {
-    "id": "9d61bf10-4428-46fe-98e4-d80c30021fa1",
+    "id": "8178bb89-1f29-4382-a6b3-54308ef3ae82",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "objWallCloudMid",
@@ -21,7 +21,7 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "solid": false,
+    "solid": true,
     "spriteId": "385f6130-e05e-4274-b6be-c54888828d71",
     "visible": true
 }
