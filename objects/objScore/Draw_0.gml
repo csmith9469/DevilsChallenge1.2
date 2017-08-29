@@ -37,16 +37,15 @@ draw_set_font(fontScore);
 /// @DnDAction : YoYo Games.Drawing.Set_Alignment
 /// @DnDVersion : 1.1
 /// @DnDHash : 69CC1F61
-/// @DnDArgument : "halign" "fa_right"
 /// @DnDArgument : "valign" "fa_middle"
-draw_set_halign(fa_right);
+draw_set_halign(fa_left);
 draw_set_valign(fa_middle);
 
 /// @DnDAction : YoYo Games.Drawing.Draw_Value
 /// @DnDVersion : 1
 /// @DnDHash : 3DE40979
-/// @DnDArgument : "x" "800"
+/// @DnDArgument : "x" "680"
 /// @DnDArgument : "y" "32"
-/// @DnDArgument : "caption" ""Score: ""
+/// @DnDArgument : "caption" ""
 /// @DnDArgument : "var" "string_format(iScore,1,0)"
-draw_text(800, 32, string("Score: ") + string(string_format(iScore,1,0)));
+draw_text(680, 32,  + string(string_format(iScore,1,0)));
