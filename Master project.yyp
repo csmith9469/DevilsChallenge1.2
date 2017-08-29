@@ -82,7 +82,7 @@
             "Key": "0b3d3403-10c0-4868-9a02-7be4f70f22e4",
             "Value": {
                 "id": "dbbe0fa4-b0e3-4fe1-bb98-788590d6b140",
-                "resourcePath": "sprites\\sprWall\\sprWall.yy",
+                "resourcePath": "sprites\\sprWallOuter\\sprWallOuter.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -500,14 +500,6 @@
                 "id": "0aeebe25-4786-469e-9f3c-6b218c584749",
                 "resourcePath": "views\\95496720-3d28-4a37-8a5c-1c9467ead374.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "96055bda-8b66-4f44-a0bb-19d9b90788d2",
-            "Value": {
-                "id": "897b4045-b0d0-4262-92dc-bcef60dd27fd",
-                "resourcePath": "sprites\\sprWall1\\sprWall1.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
