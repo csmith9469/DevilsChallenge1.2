@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "0d56d00c-a261-41fe-b578-55aea9b48b0f",
+            "Value": {
+                "id": "a15188c1-c71e-40fc-b6be-f6100b5f9bfd",
+                "resourcePath": "rooms\\rmScoreScreen2\\rmScoreScreen2.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "10195c67-9417-4793-b617-587513d7c6e1",
             "Value": {
                 "id": "d9b0a528-5b1b-458a-81f8-c6e32b1ff56c",

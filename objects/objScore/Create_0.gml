@@ -1,8 +1,8 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 41A4C834
-/// @DnDArgument : "var" "iScore"
-iScore = 0;
+/// @DnDArgument : "var" "global.iScore"
+global.iScore = 0;
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1

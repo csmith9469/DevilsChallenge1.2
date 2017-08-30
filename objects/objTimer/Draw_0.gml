@@ -25,8 +25,8 @@ draw_set_valign(fa_middle);
 /// @DnDArgument : "x" "230"
 /// @DnDArgument : "y" "32"
 /// @DnDArgument : "caption" ""Time: ""
-/// @DnDArgument : "var" "string_format(iSeconds, 1, 0)"
-draw_text(230, 32, string("Time: ") + string(string_format(iSeconds, 1, 0)));
+/// @DnDArgument : "var" "string_format(global.iSeconds, 1, 0)"
+draw_text(230, 32, string("Time: ") + string(string_format(global.iSeconds, 1, 0)));
 
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
@@ -39,9 +39,9 @@ if(startTimer == true)
 	/// @DnDVersion : 1
 	/// @DnDHash : 020C4F9C
 	/// @DnDParent : 022A6D03
-	/// @DnDArgument : "var" "iSeconds"
+	/// @DnDArgument : "var" "global.iSeconds"
 	/// @DnDArgument : "op" "4"
-	if(iSeconds >= 0)
+	if(global.iSeconds >= 0)
 	{
 		/// @DnDAction : YoYo Games.Common.Variable
 		/// @DnDVersion : 1
@@ -49,7 +49,7 @@ if(startTimer == true)
 		/// @DnDParent : 020C4F9C
 		/// @DnDArgument : "expr" "delta_time/1000000"
 		/// @DnDArgument : "expr_relative" "1"
-		/// @DnDArgument : "var" "iSeconds"
-		iSeconds += delta_time/1000000;
+		/// @DnDArgument : "var" "global.iSeconds"
+		global.iSeconds += delta_time/1000000;
 	}
 }
