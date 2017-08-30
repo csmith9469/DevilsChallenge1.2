@@ -8086,11 +8086,11 @@
             "animationFPS": 15,
             "animationSpeedType": 0,
             "colour": {
-                "Value": 4278190080
+                "Value": 4294967295
             },
             "hspeed": 0,
             "htiled": false,
-            "spriteId": "00000000-0000-0000-0000-000000000000",
+            "spriteId": "164f12fc-9dba-4fef-8c5c-d7900265fe60",
             "stretch": false,
             "userdefined_animFPS": false,
             "vspeed": 0,
