@@ -95,14 +95,6 @@
             }
         },
         {
-            "Key": "0abdaa74-07cb-49c1-b9f2-d14847b00de4",
-            "Value": {
-                "id": "7a2c15c8-f995-46d9-a1b9-259d5398463d",
-                "resourcePath": "sprites\\sprEnemy5\\sprEnemy5.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "0b3d3403-10c0-4868-9a02-7be4f70f22e4",
             "Value": {
                 "id": "dbbe0fa4-b0e3-4fe1-bb98-788590d6b140",
@@ -363,14 +355,6 @@
             "Value": {
                 "id": "30502144-575d-401c-b0eb-ed9fcda351ea",
                 "resourcePath": "objects\\objWallRock\\objWallRock.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "5b66eb53-d4c6-4659-9fde-ca1d3970e8d8",
-            "Value": {
-                "id": "7a10bc78-65fc-4bdc-9b6e-4545dfde88c1",
-                "resourcePath": "objects\\objEnemyViolet\\objEnemyViolet.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -815,11 +799,11 @@
             }
         },
         {
-            "Key": "c070d057-c6bf-43bf-b9cc-152ee9026270",
+            "Key": "be508a69-5242-4b60-839f-87a4084e8fea",
             "Value": {
-                "id": "a4a1adf9-8242-4a44-ae94-f4b4040c0b18",
-                "resourcePath": "sprites\\sprEnemy4\\sprEnemy4.yy",
-                "resourceType": "GMSprite"
+                "id": "36df4a03-72b9-445b-b7c4-052ec223a0f0",
+                "resourcePath": "objects\\objPlayerTest\\objPlayerTest.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -892,14 +876,6 @@
                 "id": "67cb9389-99af-4db6-82e7-195e76aa71ac",
                 "resourcePath": "sprites\\sprPlayerDown\\sprPlayerDown.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "d13ec50b-c129-4d11-8a2e-1abd19241474",
-            "Value": {
-                "id": "63739ffc-106f-44ec-9ff9-d94ea40632c0",
-                "resourcePath": "objects\\objEnemyGreen\\objEnemyGreen.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -1076,14 +1052,6 @@
                 "id": "96603c29-7b07-46a9-855c-3782603c0334",
                 "resourcePath": "sprites\\sprite24\\sprite24.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "ed6564e7-8c28-4eda-82fe-f1cd23eb5265",
-            "Value": {
-                "id": "a994e81a-399f-4894-83b3-4e4d2b599fa1",
-                "resourcePath": "objects\\objEnemyBlue\\objEnemyBlue.yy",
-                "resourceType": "GMObject"
             }
         },
         {
