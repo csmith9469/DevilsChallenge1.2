@@ -20,4 +20,10 @@ if(bPlayerInputEnabled == 1)
 	/// @DnDSaveInfo : "spriteind" "98d55ce4-b2a8-44c6-be7a-bef4ea2163f6"
 	sprite_index = sprPlayerRight;
 	image_index = 0;
+
+	/// @DnDAction : YoYo Games.Movement.Snap_Position
+	/// @DnDVersion : 1
+	/// @DnDHash : 78EFCD8B
+	/// @DnDParent : 69DEB7C7
+	move_snap(32, 32);
 }
