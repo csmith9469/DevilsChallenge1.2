@@ -22,11 +22,11 @@ draw_set_valign(fa_middle);
 /// @DnDAction : YoYo Games.Drawing.Draw_Value
 /// @DnDVersion : 1
 /// @DnDHash : 6F4517F6
-/// @DnDArgument : "x" "190"
+/// @DnDArgument : "x" "230"
 /// @DnDArgument : "y" "32"
 /// @DnDArgument : "caption" ""Time: ""
 /// @DnDArgument : "var" "string_format(iSeconds, 1, 0)"
-draw_text(190, 32, string("Time: ") + string(string_format(iSeconds, 1, 0)));
+draw_text(230, 32, string("Time: ") + string(string_format(iSeconds, 1, 0)));
 
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
