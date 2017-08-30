@@ -343,6 +343,22 @@
             }
         },
         {
+            "Key": "509235e1-d1c6-42c6-bf52-743fbf4d9d15",
+            "Value": {
+                "id": "891beb52-6ff1-41b9-a71c-c06d3838c6aa",
+                "resourcePath": "objects\\objEnemy22\\objEnemy22.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "52d1ee31-56dd-43a9-b18f-dd1cc0a13aa7",
+            "Value": {
+                "id": "cf24bfa4-db11-4f8b-a41c-0d3236735258",
+                "resourcePath": "sprites\\sprEnemy5\\sprEnemy5.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "59bb9595-0d31-40b4-841b-f7e73d5d430d",
             "Value": {
                 "id": "4ed43550-8963-421d-a8bf-3f7691e68754",
@@ -735,6 +751,14 @@
             }
         },
         {
+            "Key": "abcc9188-461b-47b5-b755-bc2a48d096fb",
+            "Value": {
+                "id": "e09ceb6f-0025-43c2-8143-c3b14c92fe2f",
+                "resourcePath": "objects\\objEnemy21\\objEnemy21.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "aefde221-74f9-4dad-aab0-f68b04d93a5f",
             "Value": {
                 "id": "d50050f3-2040-4ccb-9fd6-5329483fa0c1",
@@ -796,6 +820,14 @@
                 "id": "b07361ca-702e-4081-9bd3-eeb8abd10b0b",
                 "resourcePath": "fonts\\fontScore\\fontScore.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "bcf5cc78-11db-4fbd-ae79-c1dc09cfe5bd",
+            "Value": {
+                "id": "115badca-ee8a-44bd-8a24-8a459608dbd9",
+                "resourcePath": "objects\\objEnemyCyan\\objEnemyCyan.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -875,6 +907,14 @@
             "Value": {
                 "id": "67cb9389-99af-4db6-82e7-195e76aa71ac",
                 "resourcePath": "sprites\\sprPlayerDown\\sprPlayerDown.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d15dc3dd-0895-4b72-83d3-3b9f71f4877f",
+            "Value": {
+                "id": "9c01efe0-e60b-4a9e-b0dd-64390aedc0a4",
+                "resourcePath": "sprites\\sprEnemy4\\sprEnemy4.yy",
                 "resourceType": "GMSprite"
             }
         },
