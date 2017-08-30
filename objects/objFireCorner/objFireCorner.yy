@@ -1,5 +1,5 @@
 {
-    "id": "d0600ff1-b330-4b13-86a5-738a5e3d652b",
+    "id": "b6649824-a020-4ec5-a714-a9a751ab2b00",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "objFireCorner",
@@ -22,6 +22,6 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "solid": false,
-    "spriteId": "8e3ec7fb-135d-4c5f-bddf-29bbb0cc1a3d",
+    "spriteId": "0337ca4c-5f8d-4c0b-a219-b26382c10b49",
     "visible": true
 }
