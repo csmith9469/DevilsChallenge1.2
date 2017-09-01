@@ -863,6 +863,14 @@
             }
         },
         {
+            "Key": "be03c3ce-4e48-4fab-9a09-980230820845",
+            "Value": {
+                "id": "5a3d9943-2793-4858-8705-3f42e23735b9",
+                "resourcePath": "objects\\objGameComplete\\objGameComplete.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "be508a69-5242-4b60-839f-87a4084e8fea",
             "Value": {
                 "id": "36df4a03-72b9-445b-b7c4-052ec223a0f0",
