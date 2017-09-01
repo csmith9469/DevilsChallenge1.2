@@ -40,10 +40,10 @@ if(bGameOver == 1)
 	/// @DnDVersion : 1
 	/// @DnDHash : 76795B7B
 	/// @DnDParent : 5F4DAFAC
-	/// @DnDArgument : "x" "room_width/2"
+	/// @DnDArgument : "x" "room_width/2+15"
 	/// @DnDArgument : "y" "room_height/2"
 	/// @DnDArgument : "caption" ""GameOver""
-	draw_text(room_width/2, room_height/2, string("GameOver") + "");
+	draw_text(room_width/2+15, room_height/2, string("GameOver") + "");
 
 	/// @DnDAction : YoYo Games.Drawing.Set_Font
 	/// @DnDVersion : 1
@@ -65,8 +65,8 @@ if(bGameOver == 1)
 	/// @DnDVersion : 1
 	/// @DnDHash : 7A45011E
 	/// @DnDParent : 5F4DAFAC
-	/// @DnDArgument : "x" "room_width/2-50"
+	/// @DnDArgument : "x" "room_width/2-40"
 	/// @DnDArgument : "y" "room_height/2+50"
 	/// @DnDArgument : "caption" ""Press R to Restart ""
-	draw_text(room_width/2-50, room_height/2+50, string("Press R to Restart ") + "");
+	draw_text(room_width/2-40, room_height/2+50, string("Press R to Restart ") + "");
 }

@@ -121,7 +121,6 @@ if(!l71ECF54B_0)
 		/// @DnDVersion : 1.1
 		/// @DnDHash : 2F1C323F
 		/// @DnDParent : 5DB4D4DB
-		/// @DnDArgument : "direction" "-1"
 		speed = 0;
 		direction = 0;
 	
