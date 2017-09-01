@@ -38,3 +38,10 @@ PlayerDieOnce = 0;
 /// @DnDArgument : "expr" "instance_number(objCoin)"
 /// @DnDArgument : "var" "iCollect"
 iCollect = instance_number(objCoin);
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 6C304313
+/// @DnDArgument : "expr" "instance_number(objCoinLust)"
+/// @DnDArgument : "var" "iCollectLust"
+iCollectLust = instance_number(objCoinLust);
