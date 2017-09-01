@@ -9,8 +9,7 @@
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
-        "7eeb40be-2aeb-4e15-a979-34d4301ec2b0",
-        "5fb99849-207f-4b64-9d8b-74fda9cb762d"
+        "db090358-52c0-4d7b-bcf6-4f40731d3ec1"
     ],
     "layers": [
         {
@@ -37,16 +36,16 @@
             "visible": true,
             "instances": [
                 {
-                    "id": "5fb99849-207f-4b64-9d8b-74fda9cb762d",
+                    "id": "db090358-52c0-4d7b-bcf6-4f40731d3ec1",
                     "modelName": "GMRInstance",
                     "mvc": "1.0",
                     "ignore": false,
                     "inheritItemSettings": false,
                     "m_originalParentID": "00000000-0000-0000-0000-000000000000",
                     "m_serialiseFrozen": false,
-                    "name": "inst_43A22031",
+                    "name": "inst_29D1DBCC",
                     "x": 352,
-                    "y": 0,
+                    "y": 224,
                     "IsDnD": true,
                     "colour": {
                         "Value": 4294967295
@@ -54,32 +53,8 @@
                     "creationCodeFile": "",
                     "creationCodeType": "",
                     "inheritCode": false,
-                    "name_with_no_file_rename": "inst_43A22031",
-                    "objId": "1830904a-1117-4437-b16d-19a65e2e27c7",
-                    "rotation": 0,
-                    "scaleX": 1,
-                    "scaleY": 1
-                },
-                {
-                    "id": "7eeb40be-2aeb-4e15-a979-34d4301ec2b0",
-                    "modelName": "GMRInstance",
-                    "mvc": "1.0",
-                    "ignore": false,
-                    "inheritItemSettings": false,
-                    "m_originalParentID": "00000000-0000-0000-0000-000000000000",
-                    "m_serialiseFrozen": false,
-                    "name": "inst_42A8F2BA",
-                    "x": 352,
-                    "y": -32,
-                    "IsDnD": true,
-                    "colour": {
-                        "Value": 4294967295
-                    },
-                    "creationCodeFile": "",
-                    "creationCodeType": "",
-                    "inheritCode": false,
-                    "name_with_no_file_rename": "inst_42A8F2BA",
-                    "objId": "d290afba-c43d-40c8-b7ef-2e940c0b2ceb",
+                    "name_with_no_file_rename": "inst_29D1DBCC",
+                    "objId": "be03c3ce-4e48-4fab-9a09-980230820845",
                     "rotation": 0,
                     "scaleX": 1,
                     "scaleY": 1
