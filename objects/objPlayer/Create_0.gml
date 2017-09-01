@@ -45,3 +45,10 @@ iCollect = instance_number(objCoin);
 /// @DnDArgument : "expr" "instance_number(objCoinLust)"
 /// @DnDArgument : "var" "iCollectLust"
 iCollectLust = instance_number(objCoinLust);
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 530B05CE
+/// @DnDArgument : "expr" "instance_number(objCoinGlut)"
+/// @DnDArgument : "var" "iCollectGlut"
+iCollectGlut = instance_number(objCoinGlut);
