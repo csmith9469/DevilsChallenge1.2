@@ -8,12 +8,12 @@ startTimer = true;
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 521A42FB
-/// @DnDArgument : "var" "iSeconds"
-iSeconds = 0;
+/// @DnDArgument : "var" "global.iSeconds"
+global.iSeconds = 0;
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 365F1AF8
-/// @DnDArgument : "expr" "iSeconds"
+/// @DnDArgument : "expr" "global.iSeconds"
 /// @DnDArgument : "var" "iStart"
-iStart = iSeconds;
+iStart = global.iSeconds;

@@ -1,23 +1,23 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 25EB808C
-/// @DnDArgument : "expr" "iMaxscore - iMaxscore*objTimer.iSeconds/iMaxtime"
-/// @DnDArgument : "var" "iScore"
-iScore = iMaxscore - iMaxscore*objTimer.iSeconds/iMaxtime;
+/// @DnDArgument : "expr" "iMaxscore - iMaxscore*global.iSeconds/iMaxtime"
+/// @DnDArgument : "var" "global.iScore"
+global.iScore = iMaxscore - iMaxscore*global.iSeconds/iMaxtime;
 
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
 /// @DnDHash : 14E7CAAA
-/// @DnDArgument : "var" "iScore"
+/// @DnDArgument : "var" "global.iScore"
 /// @DnDArgument : "op" "3"
-if(iScore <= 0)
+if(global.iScore <= 0)
 {
 	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
 	/// @DnDHash : 025FA926
 	/// @DnDParent : 14E7CAAA
-	/// @DnDArgument : "var" "iScore"
-	iScore = 0;
+	/// @DnDArgument : "var" "global.iScore"
+	global.iScore = 0;
 }
 
 /// @DnDAction : YoYo Games.Drawing.Set_Color
@@ -44,8 +44,8 @@ draw_set_valign(fa_middle);
 /// @DnDAction : YoYo Games.Drawing.Draw_Value
 /// @DnDVersion : 1
 /// @DnDHash : 3DE40979
-/// @DnDArgument : "x" "680"
+/// @DnDArgument : "x" "710"
 /// @DnDArgument : "y" "32"
 /// @DnDArgument : "caption" ""
-/// @DnDArgument : "var" "string_format(iScore,1,0)"
-draw_text(680, 32,  + string(string_format(iScore,1,0)));
+/// @DnDArgument : "var" "string_format(global.iScore,1,0)"
+draw_text(710, 32,  + string(string_format(global.iScore,1,0)));

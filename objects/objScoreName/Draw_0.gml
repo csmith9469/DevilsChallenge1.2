@@ -22,8 +22,8 @@ draw_set_valign(fa_middle);
 /// @DnDAction : YoYo Games.Drawing.Draw_Value
 /// @DnDVersion : 1
 /// @DnDHash : 30E5CDA8
-/// @DnDArgument : "x" "510"
+/// @DnDArgument : "x" "540"
 /// @DnDArgument : "y" "32"
 /// @DnDArgument : "caption" ""
 /// @DnDArgument : "var" ""Score: ""
-draw_text(510, 32,  + string("Score: "));
+draw_text(540, 32,  + string("Score: "));
