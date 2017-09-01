@@ -527,14 +527,6 @@
             }
         },
         {
-            "Key": "7e5ce301-00bd-46b2-befd-3339397bf786",
-            "Value": {
-                "id": "eeb9bab1-fb0b-4280-afaf-d5e1f1a6e555",
-                "resourcePath": "objects\\objEscape\\objEscape.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "7fce3d8d-d6f8-4c1a-b501-0b3f8827b168",
             "Value": {
                 "id": "217b761d-71c8-4863-ba28-f020f1977805",
